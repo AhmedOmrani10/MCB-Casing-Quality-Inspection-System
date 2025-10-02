@@ -2,6 +2,12 @@
 
 # 🔍 MCB-Casing-Quality-Inspection-System
 
+> ⚠️ **Before reading this page:**  
+> Please first check the two documentation files inside the folders:  
+> - [`Dashbaord/README.md`](Dashbaord/README.md)  
+>- [`Quality Inspection System/README.md`](Quality%20Inspection%20System/README.md)
+  
+---
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green?logo=opencv&logoColor=white)  
 ![Dashboard](https://img.shields.io/badge/Dashboard-Real--Time-orange?logo=grafana&logoColor=white)  
